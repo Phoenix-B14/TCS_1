@@ -1,0 +1,9 @@
+/*multiple comment line 1
+multiple comment line 2
+multiple comment line 3*/
+  //single line comment
+/*multiple comment line 1
+multiple comment line 2
+multiple comment line 3*/
+//single line comment
+//single line comment
